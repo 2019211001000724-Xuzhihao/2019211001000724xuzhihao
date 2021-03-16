@@ -13,9 +13,10 @@
 <body>
 <a href="index.jsp">go to ecjtu</a>
 <form method="post">
-    Name:<input type="text" name="name" ><br/>
-    ID:<input type="text" name="id"><br/>
-    Date and Time:<input type="date" name="Data and time"><br/>
+    Name:<input type="text" name="name" value="Xuzhihao" ><br/>W
+    ID:<input type="text" name="id" value="2019211001000724"><br/>
+    Date and Time:Tuesday March 16 9:02:18 CST 2021
+    <br/><br/>
     <input type="submit" value="Send data to server"/>
 </form>
 </body>
