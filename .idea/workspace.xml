@@ -10,6 +10,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef864a7f-5358-4cd2-830d-80c7cb3cfe84" name="Default Changelist" comment="3.HE Week3 Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_microsoft_sqlserver_mssql_jdbc_8_2_1_jre8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_22.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/2019211001000724xuzhihao_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/2019211001000724xuzhihao_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019211001000724xuzhihao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2019211001000724xuzhihao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Xuzhihao/week3/derno/RegisterServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Xuzhihao/week3/derno/RegisterServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/register.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +63,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -61,20 +72,10 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Tomcat 8.5.63" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.63" ALTERNATIVE_JRE_ENABLED="false">
       <deployment>
         <artifact name="2019211001000724xuzhihao:war exploded">
@@ -175,7 +176,11 @@
       <workItem from="1615686921612" duration="11673000" />
       <workItem from="1615710183170" duration="50000" />
       <workItem from="1615856368052" duration="450000" />
-      <workItem from="1616314094224" duration="3314000" />
+      <workItem from="1616314094224" duration="3545000" />
+      <workItem from="1616853525790" duration="64000" />
+      <workItem from="1616906242698" duration="2592000" />
+      <workItem from="1616909175944" duration="8901000" />
+      <workItem from="1616918160654" duration="4323000" />
     </task>
     <task id="LOCAL-00001" summary="Frist Commit">
       <created>1615108363310</created>
@@ -233,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616317417425</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="3.HE Week3 Commit">
+      <created>1616317583252</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1616317583252</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
