@@ -19,7 +19,7 @@
     <input type="radio" name="sex" value="Female">Female
     <br/><br/>
     Birthdate:<input type="text" name="time" required dataformatas="yyyy-dd-mm"><br/><br/>
-    <input type="submit" value="Register">
+    <input type="submit" name="Register" value="Register">
 </form>
 </body>
 </html>
