@@ -11,6 +11,14 @@
         <servlet-name>RegisterServlet</servlet-name>
         <servlet-class>com.Xuzhihao.week3.derno.RegisterServlet</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>LoginServlet</servlet-name>
+        <servlet-class>com.Xuzhihao.week5.derno.LoginServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LoginServlet</servlet-name>
+        <url-pattern>/login</url-pattern>
+    </servlet-mapping>
 
     <!-->
    <servlet>

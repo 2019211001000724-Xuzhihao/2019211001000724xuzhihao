@@ -9,18 +9,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef864a7f-5358-4cd2-830d-80c7cb3cfe84" name="Default Changelist" comment="3.HE Week3 Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_microsoft_sqlserver_mssql_jdbc_8_2_1_jre8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_22.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/2019211001000724xuzhihao_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/2019211001000724xuzhihao_war_exploded.xml" afterDir="false" />
+    <list default="true" id="ef864a7f-5358-4cd2-830d-80c7cb3cfe84" name="Default Changelist" comment="4.HE Week4 Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019211001000724xuzhihao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2019211001000724xuzhihao.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Xuzhihao/week3/derno/RegisterServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Xuzhihao/week3/derno/RegisterServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/MyJsp.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/MyJsp.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/MyJsp.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/MyJsp.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/register.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +65,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -73,7 +73,15 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\2019211001000724Xuzhihao\src\main\webapp" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 8.5.63" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.63" ALTERNATIVE_JRE_ENABLED="false">
@@ -180,7 +188,17 @@
       <workItem from="1616853525790" duration="64000" />
       <workItem from="1616906242698" duration="2592000" />
       <workItem from="1616909175944" duration="8901000" />
-      <workItem from="1616918160654" duration="4323000" />
+      <workItem from="1616918160654" duration="5311000" />
+      <workItem from="1616923904657" duration="622000" />
+      <workItem from="1616928181760" duration="2494000" />
+      <workItem from="1617020520965" duration="3911000" />
+      <workItem from="1617024528786" duration="137000" />
+      <workItem from="1617586824731" duration="1708000" />
+      <workItem from="1617589851068" duration="25000" />
+      <workItem from="1617590040995" duration="98000" />
+      <workItem from="1617590167415" duration="615000" />
+      <workItem from="1617590817040" duration="1136000" />
+      <workItem from="1617591975305" duration="412000" />
     </task>
     <task id="LOCAL-00001" summary="Frist Commit">
       <created>1615108363310</created>
@@ -245,7 +263,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616317583252</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="4.HE Week4 Commit">
+      <created>1616922708635</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1616922708635</updated>
+    </task>
+    <task id="LOCAL-00011" summary="4.HE Week4 Commit">
+      <created>1616922748845</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1616922748845</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,7 +299,8 @@
     <MESSAGE value="Frist Commit" />
     <MESSAGE value="HW-week 2 commit" />
     <MESSAGE value="3.HE Week3 Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.HE Week3 Commit" />
+    <MESSAGE value="4.HE Week4 Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.HE Week4 Commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2019211001000724xuzhihao$Tomcat_8_5_63.ic" NAME="Tomcat 8.5.63 Coverage Results" MODIFIED="1615107968146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

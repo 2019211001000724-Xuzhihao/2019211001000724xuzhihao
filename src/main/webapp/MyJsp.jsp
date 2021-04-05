@@ -5,13 +5,9 @@
   Time: 10:00
   To change this template use File | Settings | File Templates.
 --%>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<html>
-<head>
-    <title>Title</title>
-</head>
-<body>
+<%@include file="header.jsp"%>
 <a href="index.jsp">go to ecjtu</a>
+This is my JSP page.<br>
 <form method="post">
     Name:<input type="text" name="name" value="Xuzhihao" ><br/>W
     ID:<input type="text" name="id" value="2019211001000724"><br/>
@@ -19,5 +15,5 @@
     <br/><br/>
     <input type="submit" value="Send data to server"/>
 </form>
-</body>
-</html>
+<%@include file="footer.jsp"%>
+
