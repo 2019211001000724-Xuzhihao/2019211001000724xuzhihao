@@ -9,13 +9,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef864a7f-5358-4cd2-830d-80c7cb3cfe84" name="Default Changelist" comment="5.HE Week5 Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Xuzhihao/week3/derno/RegisterServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Xuzhihao/week3/derno/RegisterServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Xuzhihao/week5/derno/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Xuzhihao/week5/derno/LoginServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
+    <list default="true" id="ef864a7f-5358-4cd2-830d-80c7cb3cfe84" name="Default Changelist" comment="6.HE Week6 Commit">
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Xuzhihao/week3/derno/RegisterServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/Xuzhihao/week3/derno/RegisterServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Xuzhihao/week5/derno/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/Xuzhihao/week5/derno/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/WEB-INF/classes/com/Xuzhihao/week3/derno/RegisterServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/WEB-INF/classes/com/Xuzhihao/week3/derno/RegisterServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/WEB-INF/classes/com/Xuzhihao/week5/derno/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/WEB-INF/classes/com/Xuzhihao/week5/derno/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/login.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +209,7 @@
       <workItem from="1617591975305" duration="1306000" />
       <workItem from="1617631513498" duration="513000" />
       <workItem from="1618027042174" duration="6000" />
-      <workItem from="1618120620352" duration="7695000" />
+      <workItem from="1618120620352" duration="8028000" />
     </task>
     <task id="LOCAL-00001" summary="Frist Commit">
       <created>1615108363310</created>
@@ -301,7 +302,21 @@
       <option name="project" value="LOCAL" />
       <updated>1617593199562</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="6.HE Week6 Commit">
+      <created>1618128603482</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1618128603482</updated>
+    </task>
+    <task id="LOCAL-00015" summary="6.HE Week6 Commit">
+      <created>1618128669006</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1618128669006</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,7 +340,8 @@
     <MESSAGE value="3.HE Week3 Commit" />
     <MESSAGE value="4.HE Week4 Commit" />
     <MESSAGE value="5.HE Week5 Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="5.HE Week5 Commit" />
+    <MESSAGE value="6.HE Week6 Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.HE Week6 Commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2019211001000724xuzhihao$Tomcat_8_5_63.ic" NAME="Tomcat 8.5.63 Coverage Results" MODIFIED="1615107968146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
