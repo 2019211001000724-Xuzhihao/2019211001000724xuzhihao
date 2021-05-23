@@ -9,9 +9,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef864a7f-5358-4cd2-830d-80c7cb3cfe84" name="Default Changelist" comment="9.HE Week9 Commit">
+    <list default="true" id="ef864a7f-5358-4cd2-830d-80c7cb3cfe84" name="Default Changelist" comment="10.HE Week10 Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/2019211001000724xuzhihao_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/2019211001000724xuzhihao_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/addProduct.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/addProduct.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019211001000724xuzhihao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2019211001000724xuzhihao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Xuzhihao/controller/ProductListServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Xuzhihao/controller/ProductListServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Xuzhihao/dao/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Xuzhihao/dao/ProductDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/productList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/productList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/productDetails.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/productDetails.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/shop.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/shop.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Xuzhihao/controller/ProductListServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/Xuzhihao/controller/ProductListServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Xuzhihao/dao/ProductDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/Xuzhihao/dao/ProductDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/WEB-INF/classes/com/Xuzhihao/controller/ProductListServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/WEB-INF/classes/com/Xuzhihao/controller/ProductListServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/WEB-INF/classes/com/Xuzhihao/dao/ProductDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/WEB-INF/classes/com/Xuzhihao/dao/ProductDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/WEB-INF/view/admin/productList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/WEB-INF/view/admin/productList.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +71,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/Xuzhihao/dao" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/images/cart" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -72,8 +86,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Lenovo\IdeaProjects\2019211001000724Xuzhihao\src\main\java\com\Xuzhihao\dao" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\2019211001000724Xuzhihao\src\main\webapp\images\cart" />
       <recent name="C:\Users\Lenovo\IdeaProjects\2019211001000724Xuzhihao\src\main\webapp\WEB-INF\view" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\2019211001000724Xuzhihao\src\main\java\com\Xuzhihao\dao" />
       <recent name="C:\Users\Lenovo\IdeaProjects\2019211001000724Xuzhihao\src\main\webapp" />
     </key>
   </component>
@@ -213,7 +228,9 @@
       <workItem from="1619242348035" duration="124000" />
       <workItem from="1619267492616" duration="36000" />
       <workItem from="1620462762365" duration="8362000" />
-      <workItem from="1621059982745" duration="11853000" />
+      <workItem from="1621059982745" duration="12251000" />
+      <workItem from="1621732072689" duration="1460000" />
+      <workItem from="1621733568302" duration="12489000" />
     </task>
     <task id="LOCAL-00001" summary="Frist Commit">
       <created>1615108363310</created>
@@ -376,7 +393,28 @@
       <option name="project" value="LOCAL" />
       <updated>1620473920021</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="10.HE Week10 Commit">
+      <created>1621075035641</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1621075035641</updated>
+    </task>
+    <task id="LOCAL-00025" summary="10.HE Week10 Commit">
+      <created>1621075072821</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1621075072821</updated>
+    </task>
+    <task id="LOCAL-00026" summary="10.HE Week10 Commit">
+      <created>1621075176620</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1621075176620</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -404,7 +442,19 @@
     <MESSAGE value="7.HE Week7 Commit" />
     <MESSAGE value="8.HE Week8 Commit" />
     <MESSAGE value="9.HE Week9 Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="9.HE Week9 Commit" />
+    <MESSAGE value="10.HE Week10 Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.HE Week10 Commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Xuzhihao/controller/AddProductServlet.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2019211001000724xuzhihao$Tomcat_8_5_63.ic" NAME="Tomcat 8.5.63 Coverage Results" MODIFIED="1615107968146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
