@@ -9,23 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef864a7f-5358-4cd2-830d-80c7cb3cfe84" name="Default Changelist" comment="10.HE Week10 Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/2019211001000724xuzhihao_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/2019211001000724xuzhihao_war_exploded.xml" afterDir="false" />
+    <list default="true" id="ef864a7f-5358-4cd2-830d-80c7cb3cfe84" name="Default Changelist" comment="12.HE Week12 Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019211001000724xuzhihao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2019211001000724xuzhihao.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Xuzhihao/controller/ProductListServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Xuzhihao/controller/ProductListServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Xuzhihao/dao/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Xuzhihao/dao/ProductDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/productList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/productList.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/productDetails.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/productDetails.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/shop.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/shop.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/Xuzhihao/controller/ProductListServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/Xuzhihao/controller/ProductListServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/Xuzhihao/dao/ProductDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/Xuzhihao/dao/ProductDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/WEB-INF/classes/com/Xuzhihao/controller/ProductListServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/WEB-INF/classes/com/Xuzhihao/controller/ProductListServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/WEB-INF/classes/com/Xuzhihao/dao/ProductDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/WEB-INF/classes/com/Xuzhihao/dao/ProductDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/WEB-INF/view/admin/productList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/WEB-INF/view/admin/productList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/userList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/userList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/cart.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/header.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,13 +81,15 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -230,7 +220,8 @@
       <workItem from="1620462762365" duration="8362000" />
       <workItem from="1621059982745" duration="12251000" />
       <workItem from="1621732072689" duration="1460000" />
-      <workItem from="1621733568302" duration="12489000" />
+      <workItem from="1621733568302" duration="13038000" />
+      <workItem from="1622332452055" duration="4018000" />
     </task>
     <task id="LOCAL-00001" summary="Frist Commit">
       <created>1615108363310</created>
@@ -414,7 +405,28 @@
       <option name="project" value="LOCAL" />
       <updated>1621075176620</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="12.HE Week12 Commit">
+      <created>1621749291351</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1621749291351</updated>
+    </task>
+    <task id="LOCAL-00028" summary="12.HE Week12 Commit">
+      <created>1621749323222</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1621749323222</updated>
+    </task>
+    <task id="LOCAL-00029" summary="12.HE Week12 Commit">
+      <created>1621749515362</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1621749515362</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -443,7 +455,8 @@
     <MESSAGE value="8.HE Week8 Commit" />
     <MESSAGE value="9.HE Week9 Commit" />
     <MESSAGE value="10.HE Week10 Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.HE Week10 Commit" />
+    <MESSAGE value="12.HE Week12 Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="12.HE Week12 Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
