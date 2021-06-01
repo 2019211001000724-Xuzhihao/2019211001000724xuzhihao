@@ -9,11 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef864a7f-5358-4cd2-830d-80c7cb3cfe84" name="Default Changelist" comment="12.HE Week12 Commit">
+    <list default="true" id="ef864a7f-5358-4cd2-830d-80c7cb3cfe84" name="Default Changelist" comment="13.HE Week13 Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/userList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/userList.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/cart.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/header.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +56,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/images/cart" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -74,26 +71,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\2019211001000724Xuzhihao\src\main\webapp" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\2019211001000724Xuzhihao\src\main\java\com" />
       <recent name="C:\Users\Lenovo\IdeaProjects\2019211001000724Xuzhihao\src\main\webapp\images\cart" />
       <recent name="C:\Users\Lenovo\IdeaProjects\2019211001000724Xuzhihao\src\main\webapp\WEB-INF\view" />
       <recent name="C:\Users\Lenovo\IdeaProjects\2019211001000724Xuzhihao\src\main\java\com\Xuzhihao\dao" />
-      <recent name="C:\Users\Lenovo\IdeaProjects\2019211001000724Xuzhihao\src\main\webapp" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Tomcat 8.5.63" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.63" ALTERNATIVE_JRE_ENABLED="false">
       <deployment>
         <artifact name="2019211001000724xuzhihao:war exploded">
@@ -221,7 +206,9 @@
       <workItem from="1621059982745" duration="12251000" />
       <workItem from="1621732072689" duration="1460000" />
       <workItem from="1621733568302" duration="13038000" />
-      <workItem from="1622332452055" duration="4018000" />
+      <workItem from="1622332452055" duration="4099000" />
+      <workItem from="1622469685882" duration="4009000" />
+      <workItem from="1622506730384" duration="2916000" />
     </task>
     <task id="LOCAL-00001" summary="Frist Commit">
       <created>1615108363310</created>
@@ -426,7 +413,21 @@
       <option name="project" value="LOCAL" />
       <updated>1621749515362</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="13.HE Week13 Commit">
+      <created>1622336541212</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1622336541212</updated>
+    </task>
+    <task id="LOCAL-00031" summary="13.HE Week13 Commit">
+      <created>1622336556360</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1622336556360</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -456,7 +457,8 @@
     <MESSAGE value="9.HE Week9 Commit" />
     <MESSAGE value="10.HE Week10 Commit" />
     <MESSAGE value="12.HE Week12 Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="12.HE Week12 Commit" />
+    <MESSAGE value="13.HE Week13 Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="13.HE Week13 Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
