@@ -9,8 +9,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef864a7f-5358-4cd2-830d-80c7cb3cfe84" name="Default Changelist" comment="13.HE Week13 Commit">
+    <list default="true" id="ef864a7f-5358-4cd2-830d-80c7cb3cfe84" name="Default Changelist" comment="LAB1">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_api_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_4.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019211001000724xuzhihao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2019211001000724xuzhihao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Xuzhihao/controller/UpdateUserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Xuzhihao/controller/UpdateUserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Xuzhihao/controller/UpdateUserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/Xuzhihao/controller/UpdateUserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/WEB-INF/classes/com/Xuzhihao/controller/UpdateUserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/WEB-INF/classes/com/Xuzhihao/controller/UpdateUserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/lab1/assignment2/validate.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/xuzhihao2019211001000724-1.0-SNAPSHOT/lab1/assignment2/validate.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,10 +80,13 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Lenovo\IdeaProjects\2019211001000724Xuzhihao\src\main\webapp" />
-      <recent name="C:\Users\Lenovo\IdeaProjects\2019211001000724Xuzhihao\src\main\java\com" />
-      <recent name="C:\Users\Lenovo\IdeaProjects\2019211001000724Xuzhihao\src\main\webapp\images\cart" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\2019211001000724Xuzhihao\src\main\webapp\WEB-INF\view\admin" />
       <recent name="C:\Users\Lenovo\IdeaProjects\2019211001000724Xuzhihao\src\main\webapp\WEB-INF\view" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\2019211001000724Xuzhihao\src\main\java\com\Xuzhihao\model" />
       <recent name="C:\Users\Lenovo\IdeaProjects\2019211001000724Xuzhihao\src\main\java\com\Xuzhihao\dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\2019211001000724Xuzhihao\src\main\webapp" />
     </key>
   </component>
   <component name="RunManager">
@@ -208,7 +219,10 @@
       <workItem from="1621733568302" duration="13038000" />
       <workItem from="1622332452055" duration="4099000" />
       <workItem from="1622469685882" duration="4009000" />
-      <workItem from="1622506730384" duration="2916000" />
+      <workItem from="1622506730384" duration="3351000" />
+      <workItem from="1622510346598" duration="1348000" />
+      <workItem from="1623027850489" duration="6489000" />
+      <workItem from="1623034488426" duration="2168000" />
     </task>
     <task id="LOCAL-00001" summary="Frist Commit">
       <created>1615108363310</created>
@@ -427,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622336556360</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="LAB1">
+      <created>1622509712500</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1622509712500</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -458,7 +479,8 @@
     <MESSAGE value="10.HE Week10 Commit" />
     <MESSAGE value="12.HE Week12 Commit" />
     <MESSAGE value="13.HE Week13 Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="13.HE Week13 Commit" />
+    <MESSAGE value="LAB1" />
+    <option name="LAST_COMMIT_MESSAGE" value="LAB1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
